@@ -21,12 +21,14 @@ Here are some ideas to get you started:
 ### Hello World! I am <b><a target="_blank" href="javascript:;">autofelix</a></b>.
 
 - :hearts: Passionate about open source software. 
-- :1st_place_medal: My projects are trusted by developers.
-- :sun_with_face: What i have achieved.
+- :1st_place_medal: 看得破的人，处处都是生机;
+- :sun_with_face: 看不破的人，处处都是困境。
 
 
 <h1 align="center"> 
-  <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=周六保证不休息，周日休息不保证;又是美好的一天!&center=true&size=27"> </a> 
+  <a href="https://sunguoqi.com/"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=周六保证不休息，周日休息不保证;今天怎么才周三为什么我身体的疲劳程度告诉我是周五&center=true&size=27">
+  </a> 
 </h1>
 
 <div align="center">
