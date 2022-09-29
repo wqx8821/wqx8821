@@ -12,19 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img 
+    align="right" 
+    style="pointer-events:none;" 
+    src="https://github-readme-stats.vercel.app/api?username=autofelix&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b&hide_title=true&hide_border=true" 
+/>
+
+### Hello World! I am <b><a target="_blank" href="javascript:;">autofelix</a></b>.
+
+- :hearts: Passionate about open source software. 
+- :1st_place_medal: My projects are trusted by developers.
+- :sun_with_face: What i have achieved.
+
+
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=周六保证不休息，周日休息不保证;又是美好的一天!&center=true&size=27"> </a> 
 </h1>
 
-
-
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  <img 
-   style="pointer-events:none;" 
-   src="https://github-readme-stats.vercel.app/api?username=autofelix&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b&hide_title=true&hide_border=true" 
-/>
 </div>
 
 
