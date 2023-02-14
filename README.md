@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center"> 
-  <a href="https://sunguoqi.com/"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=周六保证不休息，周日休息不保证;今天怎么才周三，我的疲劳程度告诉我是周五呀&center=true&size=18">
-  </a> 
 </h1>
 
 
