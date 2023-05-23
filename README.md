@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ### Hello World! I am <b><a target="_blank" href="javascript:;">前端小菜鸡</a></b>.
- - :hearts: Passionate about open source software. 
- - :1st_place_medal: 看得破的人，处处都是生机;
+<div align="center">
+ ## Hello World! I am <b><a target="_blank" href="javascript:;">前端小菜鸡</a></b>.
+ <br/>
+ - :hearts: Passionate about open source software.<br/>
+ - :1st_place_medal: 看得破的人，处处都是生机;<br/>
  - :sun_with_face: 看不破的人，处处都是困境。
-
+</div>
 
 <h1 align="center"> 
     <a href="https://github.com/wqx8821">
@@ -27,9 +29,9 @@ Here are some ideas to get you started:
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github.com/wqx8821" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=blinkfox&count_private=true&show_icons=true" />
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github.com/wqx8821" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blinkfox&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
 
