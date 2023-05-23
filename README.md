@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="dispaly: flex">
+<div style="dispaly: flex;">
     <div>
         ### Hello World! I am <b><a target="_blank" href="javascript:;">前端小菜鸡</a></b>.
-
         - :hearts: Passionate about open source software. 
         - :1st_place_medal: 看得破的人，处处都是生机;
         - :sun_with_face: 看不破的人，处处都是困境。
