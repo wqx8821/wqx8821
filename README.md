@@ -92,6 +92,6 @@ Here are some ideas to get you started:
     <span>&emsp;&emsp;</span>
 </div>
 
-![HuiDBK's github activity graph](https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg)
+![wqx8821's github activity graph](https://raw.githubusercontent.com/wqx8821/wqx8821/output/github-contribution-grid-snake.svg)
 
 
